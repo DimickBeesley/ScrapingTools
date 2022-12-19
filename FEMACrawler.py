@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-from requests_html import HTMLSession
+from requests import HTMLSession
 from bs4 import BeautifulSoup
 
 
